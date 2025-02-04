@@ -6,4 +6,5 @@
 using namespace std;
 int main() {
     cout<< "Hello wrld";
+int c=90;
 }
