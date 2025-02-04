@@ -4,6 +4,8 @@
 #include <iostream>
 #include "test1.h"
 using namespace std;
+
 int main() {
-    cout<< "Hello wrld";
+    cout << "Hello wrld";
+    int b = 10;
 }
